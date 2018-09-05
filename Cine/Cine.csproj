@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9ACB3EAD-FC03-4D1A-8E1C-5CBF57CC37EF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cine</RootNamespace>
+    <AssemblyName>Cine</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.Net4.1.0.0\lib\net40\MaterialSkin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base de Datos\CineDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CineDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Datos\DCliente.cs" />
+    <Compile Include="Capa de Datos\Conexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Datos\Empleado.cs" />
+    <Compile Include="Capa de Datos\ProcesosAsignarPeliculas.cs" />
+    <Compile Include="Capa de Datos\ProcesosPeliculas.cs" />
+    <Compile Include="Capa de Datos\ProcesosVenta.cs" />
+    <Compile Include="Capa de Datos\Reportes.cs" />
+    <Compile Include="Capa de Negocio\AsignarPelicula.cs" />
+    <Compile Include="Capa de Negocio\Cliente.cs" />
+    <Compile Include="Capa de Negocio\Codigos.cs" />
+    <Compile Include="Capa de Negocio\Peliculas.cs" />
+    <Compile Include="Capa de Negocio\Validar.cs" />
+    <Compile Include="Capa de Presentación\Agregar Peliculas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Agregar Peliculas.Designer.cs">
+      <DependentUpon>Agregar Peliculas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Asignar Cartelera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Asignar Cartelera.Designer.cs">
+      <DependentUpon>Asignar Cartelera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Datos Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Datos Clientes.Designer.cs">
+      <DependentUpon>Datos Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Datos Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Datos Empleados.Designer.cs">
+      <DependentUpon>Datos Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Reporte de Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Reporte de Ventas.Designer.cs">
+      <DependentUpon>Reporte de Ventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Sistema para Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Sistema para Clientes.Designer.cs">
+      <DependentUpon>Sistema para Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Lista de Películas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Lista de Películas.Designer.cs">
+      <DependentUpon>Lista de Películas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Mantenimiento de Películas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Mantenimiento de Películas.Designer.cs">
+      <DependentUpon>Mantenimiento de Películas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Paso 1 Selección de películas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Paso 1 Selección de películas.Designer.cs">
+      <DependentUpon>Paso 1 Selección de películas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Paso 2 Datos Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Paso 2 Datos Cliente.Designer.cs">
+      <DependentUpon>Paso 2 Datos Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Paso 3 Selección Asiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Paso 3 Selección Asiento.Designer.cs">
+      <DependentUpon>Paso 3 Selección Asiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Sistema para Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Sistema para Empleados.Designer.cs">
+      <DependentUpon>Sistema para Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Datos\Program.cs" />
+    <Compile Include="Capa de Presentación\Ver Cartelera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Ver Cartelera.Designer.cs">
+      <DependentUpon>Ver Cartelera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentación\Vista Sala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentación\Vista Sala.Designer.cs">
+      <DependentUpon>Vista Sala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Reporte\dbPrincipal.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbPrincipal.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Reporte\ReporteVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Reporte\ReporteVenta.Designer.cs">
+      <DependentUpon>ReporteVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Ticked\Boleto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Ticked\Boleto.Designer.cs">
+      <DependentUpon>Boleto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Ticked\dbBoleto.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbBoleto.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Capa de Datos\Conexion.resx">
+      <DependentUpon>Conexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Agregar Peliculas.resx">
+      <DependentUpon>Agregar Peliculas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Asignar Cartelera.resx">
+      <DependentUpon>Asignar Cartelera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Datos Clientes.resx">
+      <DependentUpon>Datos Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Datos Empleados.resx">
+      <DependentUpon>Datos Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Reporte de Ventas.resx">
+      <DependentUpon>Reporte de Ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Sistema para Clientes.resx">
+      <DependentUpon>Sistema para Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Lista de Películas.resx">
+      <DependentUpon>Lista de Películas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Mantenimiento de Películas.resx">
+      <DependentUpon>Mantenimiento de Películas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Paso 1 Selección de películas.resx">
+      <DependentUpon>Paso 1 Selección de películas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Paso 2 Datos Cliente.resx">
+      <DependentUpon>Paso 2 Datos Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Paso 3 Selección Asiento.resx">
+      <DependentUpon>Paso 3 Selección Asiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Sistema para Empleados.resx">
+      <DependentUpon>Sistema para Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Ver Cartelera.resx">
+      <DependentUpon>Ver Cartelera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentación\Vista Sala.resx">
+      <DependentUpon>Vista Sala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Reporte\Reporte.rdlc" />
+    <EmbeddedResource Include="Capa de Reporte\ReporteVenta.resx">
+      <DependentUpon>ReporteVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Ticked\Boleto.rdlc" />
+    <EmbeddedResource Include="Capa de Ticked\Boleto.resx">
+      <DependentUpon>Boleto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Reporte\BoletosCompra.rdlc" />
+    <EmbeddedResource Include="Reporte\ReporteVenta.rdlc" />
+    <None Include="Base de Datos\CineDataSet.xsc">
+      <DependentUpon>CineDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Base de Datos\CineDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CineDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Base de Datos\CineDataSet.xss">
+      <DependentUpon>CineDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Reporte\dbPrincipal.xsc">
+      <DependentUpon>dbPrincipal.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Reporte\dbPrincipal.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbPrincipal.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Capa de Reporte\dbPrincipal.xss">
+      <DependentUpon>dbPrincipal.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Ticked\dbBoleto.xsc">
+      <DependentUpon>dbBoleto.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Ticked\dbBoleto.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbBoleto.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Capa de Ticked\dbBoleto.xss">
+      <DependentUpon>dbBoleto.xsd</DependentUpon>
+    </None>
+    <None Include="Paquetes de Material Skin\packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Base de Datos\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

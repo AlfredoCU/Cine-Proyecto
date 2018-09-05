@@ -1,0 +1,10 @@
+EMPLEADOS:
+
+Gerente		admin7	123
+Cartelera	kali	linux
+Taquilla	ang7	12345
+
+CLIENTE:
+
+Cliente Socio	AlfredoCU	123
+Cliente Socio	Jose_Gil	12345

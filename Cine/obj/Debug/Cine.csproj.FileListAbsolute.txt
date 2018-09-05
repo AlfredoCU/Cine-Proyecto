@@ -1,0 +1,117 @@
+C:\Users\Alfredo\Desktop\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Login.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\bin\Debug\MaterialSkin.dll
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Clases.Conexion.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.AgregarPeliculas.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.AsignarCartelera.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.ListaPeliculas.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.MantenimientoPeliculas.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso1Seleccióndepelículas.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso2DatosCliente.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso3SelecciónAsiento.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.VistaSala.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.DatosClientes.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.DatosEmpleados.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Pantallas.SistemaClientes.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Pantallas.SistemaEmpleados.resources
+C:\Users\Alfredo\Desktop\Proyecto\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.VerCartelera.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\bin\Debug\MaterialSkin.dll
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Clases.Conexion.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.AgregarPeliculas.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.AsignarCartelera.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.DatosClientes.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.DatosEmpleados.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Pantallas.SistemaClientes.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.ListaPeliculas.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.MantenimientoPeliculas.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso1Seleccióndepelículas.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso2DatosCliente.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso3SelecciónAsiento.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Pantallas.SistemaEmpleados.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Login.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.VerCartelera.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.VistaSala.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.ReporteVentas.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\RdlCompile.cache
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\RdlCompile.compiled
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Reporte.ReporteVenta.resources
+C:\Users\Alfredo\Desktop\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Ticked.Boleto.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\bin\Debug\MaterialSkin.dll
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Clases.Conexion.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.AgregarPeliculas.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.AsignarCartelera.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.DatosClientes.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.DatosEmpleados.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.ReporteVentas.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Pantallas.SistemaClientes.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.ListaPeliculas.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.MantenimientoPeliculas.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso1Seleccióndepelículas.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso2DatosCliente.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso3SelecciónAsiento.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Pantallas.SistemaEmpleados.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Login.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.VerCartelera.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.VistaSala.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Reporte.ReporteVenta.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Capa_de_Ticked.Boleto.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\RdlCompile.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\Semestre 5\Base de Datos\Proyecto\Proyecto Cine\Cine\Cine\obj\Debug\RdlCompile.compiled
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Alfredo\Desktop\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Alfredo\Desktop\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Alfredo\Desktop\Cine\Cine\bin\Debug\MaterialSkin.dll
+C:\Users\Alfredo\Desktop\Cine\Cine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alfredo\Desktop\Cine\Cine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Clases.Conexion.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.AgregarPeliculas.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.AsignarCartelera.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.DatosClientes.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.DatosEmpleados.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.ReporteVentas.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Pantallas.SistemaClientes.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.ListaPeliculas.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.MantenimientoPeliculas.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso1Seleccióndepelículas.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso2DatosCliente.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.Paso3SelecciónAsiento.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Pantallas.SistemaEmpleados.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Login.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.VerCartelera.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Presentación.VistaSala.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Reporte.ReporteVenta.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Capa_de_Ticked.Boleto.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\RdlCompile.cache
+C:\Users\Alfredo\Desktop\Cine\Cine\obj\Debug\RdlCompile.compiled
