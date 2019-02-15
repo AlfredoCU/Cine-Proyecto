@@ -1,6 +1,6 @@
 # Cine-Proyecto.
 
-Programa para administrar Empleados, clientes, venta de boletos, películas y cartelera.
+- Programa para administrar Empleados, clientes, venta de boletos, películas y cartelera.
 
 ![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/1.png)
 ![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/2.png)
