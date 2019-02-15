@@ -1,4 +1,4 @@
-# Cine-Proyecto.
+# Cine Proyecto.
 
 - Programa para administrar Empleados, clientes, venta de boletos, películas y cartelera.
 
