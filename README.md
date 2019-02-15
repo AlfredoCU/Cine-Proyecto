@@ -1,0 +1,26 @@
+# Cine-Proyecto.
+
+Programa para administrar Empleados, clientes, venta de boletos, películas y cartelera.
+
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/1.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/2.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/3.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/4.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/5.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/6.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/7.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/8.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/9.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/10.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/11.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/12.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/13.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/14.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/15.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/16.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/17.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/18.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/19.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/20.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/21.png)
+![Interfaz](https://github.com/AlfredoCU/Cine-Proyecto/blob/master/Interfaz/22.png)
